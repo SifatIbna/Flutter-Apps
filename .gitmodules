@@ -1,3 +1,6 @@
 [submodule "MiCard-Flutter"]
 	path = MiCard-Flutter
 	url = https://github.com/SifatIbna/MiCard-Flutter.git
+[submodule "Dice-Flutter"]
+	path = Dice-Flutter
+	url = https://github.com/SifatIbna/Dice-Flutter.git
