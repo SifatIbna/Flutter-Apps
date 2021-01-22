@@ -4,3 +4,6 @@
 [submodule "Dice-Flutter"]
 	path = Dice-Flutter
 	url = https://github.com/SifatIbna/Dice-Flutter.git
+[submodule "Flutter-GetX-Boilerplate"]
+	path = Flutter-GetX-Boilerplate
+	url = https://github.com/SifatIbna/Flutter-GetX-Boilerplate.git
