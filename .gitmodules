@@ -7,3 +7,6 @@
 [submodule "Flutter-GetX-Boilerplate"]
 	path = Flutter-GetX-Boilerplate
 	url = https://github.com/SifatIbna/Flutter-GetX-Boilerplate.git
+[submodule "Quiz-App-Flutter"]
+	path = Quiz-App-Flutter
+	url = https://github.com/SifatIbna/Quiz-App-Flutter.git
