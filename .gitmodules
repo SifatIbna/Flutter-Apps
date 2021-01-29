@@ -10,3 +10,6 @@
 [submodule "Quiz-App-Flutter"]
 	path = Quiz-App-Flutter
 	url = https://github.com/SifatIbna/Quiz-App-Flutter.git
+[submodule "BMI-Calculator-Flutter"]
+	path = BMI-Calculator-Flutter
+	url = https://github.com/SifatIbna/BMI-Calculator-Flutter.git
